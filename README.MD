@@ -83,6 +83,6 @@ This is a personal/academic project, currently being built solo. Future improvem
 ## 📩 Contact
 If you want to collaborate or discuss the project, feel free to reach out!
 
-👤 Dhruv Kumar Tiwari
-📧 [Email](tiwaridhruv4146@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-kumar-tiwari-359a431aa/)
+ - 👤 Dhruv Kumar Tiwari
+ - 📧 Email - (tiwaridhruv4146@gmail.com)
+ - 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-kumar-tiwari-359a431aa/)
